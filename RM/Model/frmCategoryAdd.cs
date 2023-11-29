@@ -39,7 +39,7 @@ namespace RM.Model
             if (MainClass.SQL(qry, ht) > 0)
             {
                 
-                guna2MessageDialog1.Show("Thêm thành công!");
+                guna2MessageDialog1.Show("Thêm thành công danh mục!");
                 id = 0;
                 /*txtName.Focus();*/
                 this.Close();
