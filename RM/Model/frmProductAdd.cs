@@ -85,7 +85,7 @@ namespace RM.Model
             if (MainClass.SQL(qry, ht) > 0)
             {
 
-                guna2MessageDialog1.Show("Thêm thành công!");
+                guna2MessageDialog1.Show("Thêm thành công!!");
                 id = 0;
                 cID = 0;
                 
